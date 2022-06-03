@@ -1,2 +1,4 @@
 Belajar Git
-Saya akan serius kembali Belajar Programming, dalam hal ini mengikuti kelas dicoding dan juga The Odin Project
+Saya akan serius kembali Belajar Programming, dalam hal ini mengikuti kelas dicoding 
+dan juga The Odin Project.
+Ini adalah baris, yang dilakukan dalam latihan penggunaan Git.
