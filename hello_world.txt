@@ -3,3 +3,5 @@ Saya akan serius kembali Belajar Programming, dalam hal ini mengikuti kelas dico
 dan juga The Odin Project.
 Ini adalah baris, yang dilakukan dalam latihan penggunaan Git.
 Bismillah belajar GIT.
+
+Bismillah percobaan pada hari Selasa.
