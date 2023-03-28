@@ -5,3 +5,4 @@ Ini adalah baris, yang dilakukan dalam latihan penggunaan Git.
 Bismillah belajar GIT.
 
 Bismillah percobaan pada hari Selasa.
+Bismillah memulai kembali belajar Pemrograman.
